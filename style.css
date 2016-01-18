@@ -57,8 +57,11 @@ section.flex-bottom aside{
     height: 300px;
     overflow: hidden;
 }
-section.flex-bottom img{
+section.ourmacaron img{
     transform: translate(-150px,-230px);
+}
+section.gifts img{
+    transform: translate(-530px,-285px);
 }
 section.flex-middle article{
     margin: 5%;
