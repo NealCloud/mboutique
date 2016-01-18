@@ -158,6 +158,9 @@ section p, section ul{
 .colororange{
     background-color: #c39005;
 }
+.whitetext p{
+    color:white;
+}
 .contact-form-style{
 
 }
@@ -245,9 +248,8 @@ footer img:nth-last-child(2){
     }
     nav ul li{
         padding: 0;
-        margin: 0 -10% 2% -10%;
+        margin: 0 4% 2% -10%;
         font-size: 9px;
-        width: 27%;
     }
     #logo{
         display: inline-block;
